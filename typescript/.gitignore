@@ -1,2 +1,5 @@
-.yarn
-/.yarn
+*/*
+
+
+!*/*.ts
+!*/README.md
